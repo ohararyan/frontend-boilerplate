@@ -4,6 +4,7 @@
 
 Clone the repository in to your directory and run `npm install` to include all the necessary modules.
 If bower doesn't run and returns an error you will need to run `bower install` after installation to include any bower modules.
+When using this for a new project. Run `rm -rf .git` to remove the current history and then re-initialize the project using `git init` to start with a fresh repo.
 
 ## Development
 
